@@ -1,3 +1,5 @@
+// LEARNING BASICS OF NODE JS
+
 // differences between node.js and vanilla.js:
 
 // [1] node.js runs directly on a server as backend / any conputer rather than on a website as a frontend.
