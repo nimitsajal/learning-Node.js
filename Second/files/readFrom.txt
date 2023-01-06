@@ -1,0 +1,1 @@
+You can read this file, although you can do anything with this file, but it is mainly intended to show how to read a file.
