@@ -1,9 +1,0 @@
-
-
-You just appended this text in this file using your Node.js code. Or, if this is the first time you are appending something to this file which was not created beofore, then you just created me and then appended this text in here.
-
-You just appended this text in this file using your Node.js code. Or, if this is the first time you are appending something to this file which was not created beofore, then you just created me and then appended this text in here.
-
-You just appended this text in this file using your Node.js code. Or, if this is the first time you are appending something to this file which was not created beofore, then you just created me and then appended this text in here.
-
-You just appended this text in this file using your Node.js code. Or, if this is the first time you are appending something to this file which was not created beofore, then you just created me and then appended this text in here.

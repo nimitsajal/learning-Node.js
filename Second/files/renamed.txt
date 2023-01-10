@@ -1,3 +1,0 @@
-Writing to a new file.
-
-Appending to the file we just wrote.
